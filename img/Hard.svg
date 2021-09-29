@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="3189" viewBox="0 0 1920 3189">
+  <defs>
+    <clipPath id="clip-Hard">
+      <rect width="1920" height="3189"/>
+    </clipPath>
+  </defs>
+  <g id="Hard" clip-path="url(#clip-Hard)">
+    <rect width="1920" height="3189" fill="#fff"/>
+    <g id="Rectangle_13" data-name="Rectangle 13" transform="translate(-3)" fill="#3d4bf5" stroke="#ffa700" stroke-width="14">
+      <rect width="643" height="658" stroke="none"/>
+      <rect x="7" y="7" width="629" height="644" fill="none"/>
+    </g>
+    <g id="Rectangle_19" data-name="Rectangle 19" transform="translate(-3 2424)" fill="#3d4bf5" stroke="#ffa700" stroke-width="14">
+      <rect width="482" height="494" stroke="none"/>
+      <rect x="7" y="7" width="468" height="480" fill="none"/>
+    </g>
+    <g id="Rectangle_14" data-name="Rectangle 14" transform="translate(640)" fill="#7be7f0" stroke="#ffa700" stroke-width="14">
+      <rect width="642" height="658" stroke="none"/>
+      <rect x="7" y="7" width="628" height="644" fill="none"/>
+    </g>
+    <g id="Rectangle_20" data-name="Rectangle 20" transform="translate(479 2424)" fill="#7be7f0" stroke="#ffa700" stroke-width="14">
+      <rect width="483" height="494" stroke="none"/>
+      <rect x="7" y="7" width="469" height="480" fill="none"/>
+    </g>
+    <g id="Rectangle_21" data-name="Rectangle 21" transform="translate(1438 2424)" fill="#eaac21" stroke="#ffa700" stroke-width="14">
+      <rect width="482" height="494" stroke="none"/>
+      <rect x="7" y="7" width="468" height="480" fill="none"/>
+    </g>
+    <g id="Rectangle_12" data-name="Rectangle 12" transform="translate(1274)" fill="#3d4bf5" stroke="#ffa700" stroke-width="14">
+      <rect width="643" height="658" stroke="none"/>
+      <rect x="7" y="7" width="629" height="644" fill="none"/>
+    </g>
+    <g id="Rectangle_18" data-name="Rectangle 18" transform="translate(955 2424)" fill="#3d4bf5" stroke="#ffa700" stroke-width="14">
+      <rect width="483" height="494" stroke="none"/>
+      <rect x="7" y="7" width="469" height="480" fill="none"/>
+    </g>
+    <g id="Rectangle_17" data-name="Rectangle 17" transform="translate(1274 1251)" fill="#7be7f0" stroke="#ffa700" stroke-width="14">
+      <rect width="643" height="1173" stroke="none"/>
+      <rect x="7" y="7" width="629" height="1159" fill="none"/>
+    </g>
+    <g id="Rectangle_16" data-name="Rectangle 16" transform="translate(0 658)" fill="#e8c4a1" stroke="#ffa700" stroke-width="14">
+      <rect width="1596" height="593" stroke="none"/>
+      <rect x="7" y="7" width="1582" height="579" fill="none"/>
+    </g>
+    <g id="Rectangle_15" data-name="Rectangle 15" transform="translate(1595 658)" fill="#eaac21" stroke="#ffa700" stroke-width="14">
+      <rect width="325" height="593" stroke="none"/>
+      <rect x="7" y="7" width="311" height="579" fill="none"/>
+    </g>
+    <g id="Rectangle_22" data-name="Rectangle 22" transform="translate(0 1251)" fill="#3d4bf5" stroke="#ffa700" stroke-width="14">
+      <rect width="1282" height="587" stroke="none"/>
+      <rect x="7" y="7" width="1268" height="573" fill="none"/>
+    </g>
+    <g id="Rectangle_24" data-name="Rectangle 24" transform="translate(0 1837)" fill="#eaac21" stroke="#ffa700" stroke-width="14">
+      <rect width="1282" height="587" stroke="none"/>
+      <rect x="7" y="7" width="1268" height="573" fill="none"/>
+    </g>
+    <g id="Rectangle_23" data-name="Rectangle 23" transform="translate(-2 2918)" fill="#e8c4a1" stroke="#ffa700" stroke-width="14">
+      <rect width="1920" height="273" stroke="none"/>
+      <rect x="7" y="7" width="1906" height="259" fill="none"/>
+    </g>
+    <text id="Main" transform="translate(503 1565)" fill="#fff" font-size="80" font-family="Courier"><tspan x="0" y="0">Main</tspan></text>
+    <text id="Quote" transform="translate(503 2151)" fill="#fff" font-size="80" font-family="Courier"><tspan x="0" y="0">Quote</tspan></text>
+    <text id="Sidebar" transform="translate(1438 1857)" fill="#fff" font-size="80" font-family="Courier"><tspan x="0" y="0">Sidebar</tspan></text>
+    <text id="img" transform="translate(1679 975)" fill="#fff" font-size="80" font-family="Courier"><tspan x="0" y="0">img</tspan></text>
+    <text id="Div_small_class_p" data-name="Div
+small
+class p" transform="translate(238 2663)" fill="#fff" font-size="80" font-family="Courier"><tspan x="-72.012" y="0">Div</tspan><tspan x="-120.02" y="56">small</tspan><tspan x="-168.027" y="112">class p</tspan></text>
+    <text id="Div_med_class_p" data-name="Div
+med
+class p" transform="translate(319 321)" fill="#fff" font-size="80" font-family="Courier"><tspan x="-72.012" y="0">Div</tspan><tspan x="-72.012" y="56">med</tspan><tspan x="-168.027" y="112">class p</tspan></text>
+    <text id="Div_med_class_t" data-name="Div
+med
+class t" transform="translate(960 321)" fill="#fff" font-size="80" font-family="Courier"><tspan x="-72.012" y="0">Div</tspan><tspan x="-72.012" y="56">med</tspan><tspan x="-168.027" y="112">class t</tspan></text>
+    <text id="Div_med_class_p-2" data-name="Div
+med
+class p" transform="translate(1582 321)" fill="#fff" font-size="80" font-family="Courier"><tspan x="-72.012" y="0">Div</tspan><tspan x="-72.012" y="56">med</tspan><tspan x="-168.027" y="112">class p</tspan></text>
+    <text id="Div_small_class_t" data-name="Div
+small
+class t" transform="translate(719 2663)" fill="#fff" font-size="80" font-family="Courier"><tspan x="-72.012" y="0">Div</tspan><tspan x="-120.02" y="56">small</tspan><tspan x="-168.027" y="112">class t</tspan></text>
+    <text id="Div_small_class_p-2" data-name="Div
+small
+class p" transform="translate(1197 2663)" fill="#fff" font-size="80" font-family="Courier"><tspan x="-72.012" y="0">Div</tspan><tspan x="-120.02" y="56">small</tspan><tspan x="-168.027" y="112">class p</tspan></text>
+    <text id="Div_small_class_o" data-name="Div
+small
+class o" transform="translate(1654 2663)" fill="#fff" font-size="80" font-family="Courier"><tspan x="-72.012" y="0">Div</tspan><tspan x="-120.02" y="56">small</tspan><tspan x="-168.027" y="112">class o</tspan></text>
+    <text id="Footer" transform="translate(754 3075)" fill="#fff" font-size="80" font-family="Courier"><tspan x="0" y="0">Footer</tspan></text>
+    <text id="Header" transform="translate(577 979)" fill="#fff" font-size="80" font-family="Courier"><tspan x="0" y="0">Header</tspan></text>
+  </g>
+</svg>
